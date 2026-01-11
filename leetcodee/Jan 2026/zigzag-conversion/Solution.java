@@ -13,7 +13,6 @@ class Solution {
         for (int i = 0; i < numRows; i++) {
             rows[i] = new StringBuilder();
         }
-
         int currentRow = 0;
         boolean goingDown = false;
 
