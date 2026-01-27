@@ -1,6 +1,6 @@
-package leetcodee.Jan 2026.Reverse-Integer;
+package leetcodee.Jan;//package leetcodee.Jan 2026.Reverse-Integer;
 
-class Solution {
+class Solutions {
     public int reverse(int x) {
         int rev = 0;
         while (x != 0) {
