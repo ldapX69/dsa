@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Jan 2026/2sums" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jan 2026/Arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jan 2026/Reverse-Integer" isTestSource="false" packagePrefix="leetcodee.Jan" />
+      <sourceFolder url="file://$MODULE_DIR$/Jan 2026/add-two-numbers" isTestSource="false" packagePrefix="leetcodee.Jan" />
+      <sourceFolder url="file://$MODULE_DIR$/Jan 2026/flow-of-program" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jan 2026/longestCommonPrefix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jan 2026/median-of-two-sorted-arrays" isTestSource="false" packagePrefix="leetcodee.Jan" />
+      <sourceFolder url="file://$MODULE_DIR$/Jan 2026/switch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Jan 2026/zigzag-conversion" isTestSource="false" packagePrefix="leetcodee.Jan" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
