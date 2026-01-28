@@ -1,4 +1,4 @@
-package leetcodee.Jan 2026.median-of-two-sorted-arrays;
+package leetcodee.Jan 026.median-of-two-sorted-arrays;
 
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {

@@ -1,5 +1,4 @@
-package leetcodee.Jan 2026.zigzag-conversion;
-
+package leetcodee.Jan;
 class Solution {
     public String convert(String s, int numRows) {
         // Edge case: If only 1 row is requested, or the string is 

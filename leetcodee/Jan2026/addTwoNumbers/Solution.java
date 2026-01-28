@@ -1,5 +1,4 @@
-package leetcodee.Jan 2026.add-two-numbers;
-
+package leetcodee.Jan2026.add-two-numbers;
 /**
  * Definition for singly-linked list.
  * public class ListNode {
